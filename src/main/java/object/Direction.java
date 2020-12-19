@@ -1,0 +1,9 @@
+package object;
+
+public enum Direction {
+    UP,
+    DOWN,
+    RIGHT,
+    LEFT
+};
+
